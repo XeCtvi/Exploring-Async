@@ -1,0 +1,16 @@
+{
+  "name": "js-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1. Jq button 不会抛fun KO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tvvi",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "jsdom": "^8.4.1",
+    "lodash": "^3.10.1"
+  }
+}

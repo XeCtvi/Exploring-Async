@@ -1,0 +1,5 @@
+err 的传递总是在 callback 里
+
+callback(null, function () {
+    
+}); ??
